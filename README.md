@@ -8,6 +8,16 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
 
 
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Chosen](#business-chosen)
+- [Files Included](#files-included)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools Used](#tools-used)
+- [What I Learned](#what-i-learned)
+
+
 ## Project Overview
 
 This project demonstrates the use of Prompt Engineering to generate professional website content for a fictional local business using AI.
