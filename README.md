@@ -59,5 +59,9 @@ The goal was to create clear, engaging, and SEO-friendly website content using w
 
 Through this project, I learned how to design effective AI prompts, create structured website content, and organize a professional documentation project using Markdown and GitHub.
 
+## 🖼️ Homepage Preview
 
+![Homepage Preview](screenshots/homepage-banner.png)
+
+*Homepage hero banner for the SmileCare Dental Clinic website.*
 
