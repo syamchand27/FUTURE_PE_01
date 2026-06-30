@@ -61,6 +61,6 @@ Through this project, I learned how to design effective AI prompts, create struc
 
 ## 🖼️ Homepage Preview
 
-![Homepage Preview](screenshots/homepage-preview.png)
+![Homepage Preview](homepage-banner.png)
 
 *Preview of the AI-generated homepage for SmileCare Dental Clinic.*
