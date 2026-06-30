@@ -85,3 +85,10 @@ This preview showcases the AI-generated services page for **SmileCare Dental Cli
 - 👶 Pediatric Dental Care
 
 *This content was created using structured prompt engineering to produce clear, professional, and patient-friendly website copy.*
+
+
+## 📞 Call to Action Preview
+
+![CTA Preview](cta-preview.png)
+
+*AI-generated call-to-action section encouraging visitors to book an appointment.*
