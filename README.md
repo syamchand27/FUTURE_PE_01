@@ -61,6 +61,3 @@ Through this project, I learned how to design effective AI prompts, create struc
 
 ## 🖼️ Homepage Preview
 
-![Homepage Preview](screenshots/homepage-banner.png)
-
-*Homepage hero banner for the SmileCare Dental Clinic website.*
