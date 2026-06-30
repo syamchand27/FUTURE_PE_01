@@ -18,6 +18,7 @@
 - [What I Learned](#what-i-learned)
 
 
+
 ## Project Overview
 
 This project demonstrates the use of Prompt Engineering to generate professional website content for a fictional local business using AI.
@@ -64,3 +65,23 @@ Through this project, I learned how to design effective AI prompts, create struc
 ![Homepage Preview](homepage-banner.png)
 
 *Preview of the AI-generated homepage for SmileCare Dental Clinic.*
+
+
+## 🛠️ Services Preview
+
+![Services Preview](services-preview.png)
+
+### Our Services
+
+This preview showcases the AI-generated services page for **SmileCare Dental Clinic**, including:
+
+- 🦷 General Dental Checkups
+- ✨ Teeth Cleaning & Polishing
+- 😁 Teeth Whitening
+- 🛠️ Dental Fillings
+- 👑 Crowns & Bridges
+- 😊 Root Canal Treatment
+- 🦷 Braces & Orthodontics
+- 👶 Pediatric Dental Care
+
+*This content was created using structured prompt engineering to produce clear, professional, and patient-friendly website copy.*
