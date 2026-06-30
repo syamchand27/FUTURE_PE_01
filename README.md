@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # AI Website Copy Generator for Local Businesses
 
 ## Project Overview
