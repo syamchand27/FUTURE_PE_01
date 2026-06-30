@@ -1,3 +1,6 @@
+![SmileCare Homepage Banner](screenshots/homepage-banner.png)
+
+
 # SmileCare Dental Clinic
 
 ## Healthy Smiles Begin Here
