@@ -2,6 +2,12 @@
 
 # AI Website Copy Generator for Local Businesses
 
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
+
+
 ## Project Overview
 
 This project demonstrates the use of Prompt Engineering to generate professional website content for a fictional local business using AI.
