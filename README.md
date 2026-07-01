@@ -16,7 +16,9 @@
 - [Skills Demonstrated](#skills-demonstrated)
 - [Tools Used](#tools-used)
 - [What I Learned](#what-i-learned)
-
+- [Homepage Preview](#homepage-preview)
+- [Services Preview](#️services-preview)
+- [Call Of Action Preview](#call-to-action-preview)
 
 
 ## Project Overview
